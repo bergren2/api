@@ -1,0 +1,20 @@
+prairiehymnal:
+  name: Prairie Hymnal
+  description: Prairie Hymnal is an experiment in the paradox of preservation.
+  repoUrl:
+  liveUrl: https://prairiehymnal.wordpress.com
+  inceptionDate:
+  lastUpdatedDate:
+  collaborators:
+    twitter: jwstone
+    twitter: CodyJCaudill
+  license:
+hearthstone:
+  name: Hearthstone Collection
+  description: A site that catalogs my Hearthstone collection using data from the Hearthstone JSON API.
+  repoUrl:
+  liveUrl: https://bergren2.github.io/hearthstone/
+  inceptionDate: 2014-12-19
+  lastUpdatedDate: 2017-11-09
+  collaborators:
+  license:

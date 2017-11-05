@@ -1,0 +1,5 @@
+{
+  "projects": [{
+    <%= data.projects.map { |k, v| "\"name\": \"#{v.name}\", \"description\": \"#{v.description}\"" }.join("},{") %>
+  }]
+}
