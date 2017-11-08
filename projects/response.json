@@ -1,0 +1,5 @@
+{
+  "projects": [{
+    "name": "Prairie Hymnal", "description": "Prairie Hymnal is an experiment in the paradox of preservation."},{"name": "Hearthstone Collection", "description": "A site that catalogs my Hearthstone collection using data from the Hearthstone JSON API."
+  }]
+}
