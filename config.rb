@@ -10,7 +10,6 @@ set :index_file, "response.json"
 page "/*.xml", layout: false
 page "/*.json", layout: false
 page "/*.txt", layout: false
-page "/api/*", layout: false
 
 configure :build do
   activate :minify_css
